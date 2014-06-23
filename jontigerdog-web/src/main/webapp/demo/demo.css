@@ -6,7 +6,7 @@ html, body {
 body {
   margin: 0;
   color: #333333;
-  background: url('../images/water.jpg');
+  background: url('../images/water.jpg') no-repeat;
   padding: 10px;
 }
 a {
@@ -46,7 +46,8 @@ h3 {
 }
 .contact-info {
 	float: left;
-	
+	background-color: #333333;
+	width: 100%;	
 }
 .influences {
 	float: left;
@@ -61,8 +62,8 @@ h3 {
 	margin-left: 20px;
 }
 .my-slider {
-    width: 450px;
-    height: 300px;
+    width: 1000px;
+    height: 1000px;
     font-size:0;
 }
 .my-slider li {
@@ -93,7 +94,7 @@ h3 {
 }
 .controls {
     margin-top:5px;
-    width:450px;
+    width:1000px;
     text-align: center;
 }
 .ng-cloak {
@@ -103,7 +104,7 @@ h3 {
     text-align:center;
 }
 .thumbs {
-    width:450px;
+    width:1000px;
     text-align:center;
     margin: auto;
 }
@@ -111,9 +112,9 @@ h3 {
     display: inline-block;
     background-size:cover;
     border:1px solid transparent;
-    margin:2px 4px;
-    width:60px;
-    height:40px;
+    margin: 20px 4px;
+    width: 80px;
+    height: 80px;
     transition: border 0.2s ease-in;
 }
 .is-active {
