@@ -49,6 +49,10 @@ h3 {
 	background-color: #333333;
 	width: 100%;	
 }
+.next-exhibition {
+	margin-left: 20px;
+	color: white;
+}
 .influences {
 	float: left;
 	clear: both;

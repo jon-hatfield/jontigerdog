@@ -35,6 +35,12 @@
        		<a href="http://www.facebook.com/jontigerdoghatfield" target="_blank">
        			<img src="images/fb-icon.png" />www.facebook.com/jontigerdoghatfield
        		</a>
+       		<span class="next-exhibition">
+       			Upcoming exhibition 5th to 18th August 2014 
+       			<a href="http://www.thebricklanegallery.com" target="_blank">
+       				Brick Lane Gallery Annexe
+       			</a>
+       		</span>
        		<br />
        		<a href="mailto:theartist@jontigerdoghatfield.com">
 				theartist@jontigerdoghatfield.com
